@@ -1,6 +1,3 @@
-# Your code file should include code for reading the data so that the plot can be fully reproduced. 
-# You must also include the code that creates the PNG file.
-
 # =========== Loading the data ==========================
 # 1. We will only be using data from the dates 2007-02-01 and 2007-02-02. 
 # 2. convert the Date and Time variables to Date/Time classes in R using the 
